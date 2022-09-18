@@ -1,4 +1,4 @@
-# Python-Game--PONG
+# Python-Game-PONG
 
 PONG is a 2 player game, which is made using Tkinter module in PyCharm 3.10.
 
